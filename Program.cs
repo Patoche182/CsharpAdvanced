@@ -8,7 +8,7 @@ namespace CsharpAdvanced // Tiroir
         Bronze,     // 1
         Silver,     // 2 
         Gold,       // 3
-        Diamond     // 4
+        Diamond     // 4 (on peut le forcer le int, par ex Diamond = 15)
     }
 
     struct user // Structure
